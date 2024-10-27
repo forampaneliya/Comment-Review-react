@@ -1,0 +1,53 @@
+.Fastar{
+    font-size: 30px;
+    margin-left: 8px;
+}
+.wrap{
+    text-align: center;
+}
+.feedback{
+    height: 150px;
+    width: 350px;
+    border-radius: 8px;
+    border: 2px solid rgb(185, 182, 182);
+    font-size: 18px;
+}
+.btn{
+    width: 350px;
+    height: 45px;
+    border: 2px solid rgb(185, 182, 182);
+    font-size: 18px;
+    border-radius: 8px;
+}
+.closeicon{
+    font-size: 28px;
+    margin-left: 10px;
+    background-color: rgb(237, 231, 231);
+    padding: 3px;
+    border: 1px solid black;
+}
+.card-wrap{
+    padding: 15px;
+    border: 2px solid rgb(185, 182, 182);
+    border-radius: 15px;
+    width: 400px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    height: auto;
+
+}
+.star{
+    margin-right: 7px;
+    margin-bottom: 10px;
+    font-size: 35px;
+    color: yellow;
+}
+.para{
+    font-size: 20px;
+    margin-bottom: 8px;
+    
+}
+.main-card-flex{
+    display: flex;
+    flex-wrap: wrap;
+}
